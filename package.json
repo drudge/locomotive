@@ -1,6 +1,6 @@
 {
   "name": "emvc",
-  "version": "0.6.2-alpha",
+  "version": "0.6.3-alpha",
   "description": "Powerful MVC web framework for Node.js using Express",
   "keywords": [
     "express",
@@ -28,7 +28,7 @@
     }
   ],
   "bin": {
-    "lcm": "./bin/emvc.js"
+    "emvc": "./bin/emvc.js"
   },
   "main": "./lib",
   "dependencies": {
