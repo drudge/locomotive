@@ -1,6 +1,6 @@
 {
   "name": "emvc",
-  "version": "0.6.1-alpha",
+  "version": "0.6.2-alpha",
   "description": "Powerful MVC web framework for Node.js using Express",
   "keywords": [
     "express",
@@ -32,7 +32,7 @@
   },
   "main": "./lib",
   "dependencies": {
-    "actionrouter": "^0.1.0",
+    "emvc-router": "^0.2.0",
     "bootable": "^0.2.4",
     "bootable-environment": "^0.2.0",
     "co-prompt": "^1.0.0",
