@@ -1,7 +1,7 @@
 {
-  "name": "locomotive",
-  "version": "0.6.0-alpha",
-  "description": "Powerful MVC web framework for Node.js.",
+  "name": "emvc",
+  "version": "0.6.1-alpha",
+  "description": "Powerful MVC web framework for Node.js using Express",
   "keywords": [
     "express",
     "connect",
@@ -10,17 +10,16 @@
     "rails"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Nicholas Penree",
+    "email": "nick@penree.com",
+    "url": "http://penree.com/"
   },
-  "homepage": "http://locomotivejs.org/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/locomotive.git"
+    "url": "git://github.com/emvc/emvc.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/locomotive/issues"
+    "url": "http://github.com/emvc/emvc/issues"
   },
   "licenses": [
     {
@@ -29,7 +28,7 @@
     }
   ],
   "bin": {
-    "lcm": "./bin/lcm.js"
+    "lcm": "./bin/emvc.js"
   },
   "main": "./lib",
   "dependencies": {
@@ -51,7 +50,7 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "chai-connect-middleware": "^0.3.1",
-    "chai-locomotive-helpers": "^0.1.0",
+    "chai-emvc-helpers": "^0.1.0",
     "mocha": "^2.5.3",
     "promise": "^7.1.1"
   },
