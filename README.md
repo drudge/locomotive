@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/emvc/emvc.svg?branch=master)](https://travis-ci.org/emvc/emvc)
 [![Coverage Status](https://coveralls.io/repos/github/emvc/emvc/badge.svg?branch=master)](https://coveralls.io/github/emvc/emvc?branch=master)
-[![Quality](https://codeclimate.com/emvc/emvc/emvc.png)](https://codeclimate.com/github/emvc/emvc)
+[![Quality](https://codeclimate.com/github/emvc/emvc/badges/gpa.svg)](https://codeclimate.com/github/emvc/emvc)
 [![Dependencies](https://david-dm.org/emvc/emvc.png)](https://david-dm.org/emvc/emvc)
 
 
